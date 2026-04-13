@@ -1,0 +1,1718 @@
+[
+  {
+    "word1": "bare",
+    "def1": "",
+    "word2": "bear",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "bare赤裸的，bear熊/忍受",
+    "similarity": 2
+  },
+  {
+    "word1": "beach",
+    "def1": "",
+    "word2": "beech",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "beach海滩，beech山毛榉",
+    "similarity": 1
+  },
+  {
+    "word1": "board",
+    "def1": "",
+    "word2": "broad",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "board木板，broad宽广的",
+    "similarity": 2
+  },
+  {
+    "word1": "bold",
+    "def1": "",
+    "word2": "bolt",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "bold大胆的，bolt螺栓",
+    "similarity": 1
+  },
+  {
+    "word1": "cell",
+    "def1": "",
+    "word2": "sell",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cell细胞，sell卖",
+    "similarity": 1
+  },
+  {
+    "word1": "cent",
+    "def1": "",
+    "word2": "sent",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cent分币，sent发送",
+    "similarity": 1
+  },
+  {
+    "word1": "cloth",
+    "def1": "",
+    "word2": "clothe",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cloth布料，clothe穿衣",
+    "similarity": 1
+  },
+  {
+    "word1": "corps",
+    "def1": "",
+    "word2": "corpse",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "corps军团，corpse尸体",
+    "similarity": 1
+  },
+  {
+    "word1": "creak",
+    "def1": "",
+    "word2": "creek",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "creak吱嘎声，creek小溪",
+    "similarity": 1
+  },
+  {
+    "word1": "cue",
+    "def1": "",
+    "word2": "queue",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cue提示，queue队列",
+    "similarity": 3
+  },
+  {
+    "word1": "dear",
+    "def1": "",
+    "word2": "deer",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "dear亲爱的，deer鹿",
+    "similarity": 1
+  },
+  {
+    "word1": "draft",
+    "def1": "",
+    "word2": "draught",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "draft草案，draught通风",
+    "similarity": 3
+  },
+  {
+    "word1": "every",
+    "def1": "",
+    "word2": "each",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "every每个，each每一",
+    "similarity": 4
+  },
+  {
+    "word1": "for",
+    "def1": "",
+    "word2": "four",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "for为了，four四",
+    "similarity": 1
+  },
+  {
+    "word1": "fore",
+    "def1": "",
+    "word2": "four",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "fore前面的，four四",
+    "similarity": 2
+  },
+  {
+    "word1": "heard",
+    "def1": "",
+    "word2": "here",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "heard听见，here这里",
+    "similarity": 2
+  },
+  {
+    "word1": "him",
+    "def1": "",
+    "word2": "hymn",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "him他，hymn赞美诗",
+    "similarity": 2
+  },
+  {
+    "word1": "its",
+    "def1": "",
+    "word2": "it's",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "its它的，it's它是",
+    "similarity": 1
+  },
+  {
+    "word1": "loan",
+    "def1": "",
+    "word2": "lone",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "loan贷款，lone孤独的",
+    "similarity": 2
+  },
+  {
+    "word1": "main",
+    "def1": "",
+    "word2": "mane",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "main主要的，mane鬃毛",
+    "similarity": 2
+  },
+  {
+    "word1": "meat",
+    "def1": "",
+    "word2": "meet",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "meat肉，meet遇见",
+    "similarity": 1
+  },
+  {
+    "word1": "mist",
+    "def1": "",
+    "word2": "missed",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "mist薄雾，missed错过",
+    "similarity": 3
+  },
+  {
+    "word1": "moist",
+    "def1": "",
+    "word2": "moisture",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "moist潮湿的，moisture湿气",
+    "similarity": 3
+  },
+  {
+    "word1": "naval",
+    "def1": "",
+    "word2": "navel",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "naval海军的，navel肚脐",
+    "similarity": 1
+  },
+  {
+    "word1": "need",
+    "def1": "",
+    "word2": "knead",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "need需要，knead揉面",
+    "similarity": 2
+  },
+  {
+    "word1": "none",
+    "def1": "",
+    "word2": "nun",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "none没有人，nun修女",
+    "similarity": 2
+  },
+  {
+    "word1": "oar",
+    "def1": "",
+    "word2": "or",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "oar船桨，or或者",
+    "similarity": 1
+  },
+  {
+    "word1": "overt",
+    "def1": "",
+    "word2": "overtake",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "overt公开的，overtake赶上",
+    "similarity": 3
+  },
+  {
+    "word1": "pace",
+    "def1": "",
+    "word2": "paste",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "pace步伐，paste粘贴",
+    "similarity": 2
+  },
+  {
+    "word1": "peek",
+    "def1": "",
+    "word2": "peak",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "peek偷看，peak山峰",
+    "similarity": 1
+  },
+  {
+    "word1": "peer",
+    "def1": "",
+    "word2": "pier",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "peer同龄人，pier码头",
+    "similarity": 1
+  },
+  {
+    "word1": "perm",
+    "def1": "",
+    "word2": "palm",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "perm烫发，palm手掌",
+    "similarity": 2
+  },
+  {
+    "word1": "place",
+    "def1": "",
+    "word2": "plaice",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "place地点，plaice比目鱼",
+    "similarity": 1
+  },
+  {
+    "word1": "pray",
+    "def1": "",
+    "word2": "prey",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "pray祈祷，prey猎物",
+    "similarity": 1
+  },
+  {
+    "word1": "read",
+    "def1": "",
+    "word2": "red",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "read阅读，red红色",
+    "similarity": 1
+  },
+  {
+    "word1": "real",
+    "def1": "",
+    "word2": "reel",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "real真的，reel卷轴",
+    "similarity": 1
+  },
+  {
+    "word1": "reek",
+    "def1": "",
+    "word2": "weak",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "reek散发臭气，weak虚弱",
+    "similarity": 2
+  },
+  {
+    "word1": "rest",
+    "def1": "",
+    "word2": "wrest",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rest休息，wrest夺取",
+    "similarity": 1
+  },
+  {
+    "word1": "right",
+    "def1": "",
+    "word2": "write",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "right正确，write写",
+    "similarity": 4
+  },
+  {
+    "word1": "rite",
+    "def1": "",
+    "word2": "right",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rite仪式，right正确",
+    "similarity": 3
+  },
+  {
+    "word1": "room",
+    "def1": "",
+    "word2": "roam",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "room房间，roam漫游",
+    "similarity": 1
+  },
+  {
+    "word1": "root",
+    "def1": "",
+    "word2": "route",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "root根，route路线",
+    "similarity": 2
+  },
+  {
+    "word1": "row",
+    "def1": "",
+    "word2": "roe",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "row排，roe鱼卵",
+    "similarity": 1
+  },
+  {
+    "word1": "rye",
+    "def1": "",
+    "word2": "wry",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rye黑麦，wry讽刺的",
+    "similarity": 2
+  },
+  {
+    "word1": "sail",
+    "def1": "",
+    "word2": "sale",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sail航行，sale出售",
+    "similarity": 2
+  },
+  {
+    "word1": "sea",
+    "def1": "",
+    "word2": "see",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sea海洋，see看见",
+    "similarity": 1
+  },
+  {
+    "word1": "set",
+    "def1": "",
+    "word2": "sweat",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "set设置，sweat汗水",
+    "similarity": 2
+  },
+  {
+    "word1": "side",
+    "def1": "",
+    "word2": "sighed",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "side边，sighed叹息",
+    "similarity": 3
+  },
+  {
+    "word1": "sigh",
+    "def1": "",
+    "word2": "si",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sigh叹息，si音符",
+    "similarity": 2
+  },
+  {
+    "word1": "so",
+    "def1": "",
+    "word2": "sew",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "so如此，sew缝合",
+    "similarity": 2
+  },
+  {
+    "word1": "sold",
+    "def1": "",
+    "word2": "sole",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sold卖，sole唯一的",
+    "similarity": 1
+  },
+  {
+    "word1": "spade",
+    "def1": "",
+    "word2": "spoke",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "spade铲子，spoke轮辐",
+    "similarity": 2
+  },
+  {
+    "word1": "stew",
+    "def1": "",
+    "word2": "steward",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "stew炖菜，steward管家",
+    "similarity": 3
+  },
+  {
+    "word1": "stool",
+    "def1": "",
+    "word2": "steal",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "stool凳子，steal偷",
+    "similarity": 2
+  },
+  {
+    "word1": "suite",
+    "def1": "",
+    "word2": "sweet",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "suite套房，sweet甜的",
+    "similarity": 4
+  },
+  {
+    "word1": "sword",
+    "def1": "",
+    "word2": "soared",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sword剑，soared翱翔",
+    "similarity": 3
+  },
+  {
+    "word1": "tain",
+    "def1": "",
+    "word2": "train",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tain一点点，train火车",
+    "similarity": 1
+  },
+  {
+    "word1": "tail",
+    "def1": "",
+    "word2": "tale",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tail尾巴，tale故事",
+    "similarity": 2
+  },
+  {
+    "word1": "tear",
+    "def1": "",
+    "word2": "tier",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tear眼泪，tier层级",
+    "similarity": 2
+  },
+  {
+    "word1": "threw",
+    "def1": "",
+    "word2": "through",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "threw扔，through通过",
+    "similarity": 4
+  },
+  {
+    "word1": "tile",
+    "def1": "",
+    "word2": "trial",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tile瓦片，trial试验",
+    "similarity": 3
+  },
+  {
+    "word1": "toad",
+    "def1": "",
+    "word2": "towed",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "toad蟾蜍，towed拖曳",
+    "similarity": 2
+  },
+  {
+    "word1": "told",
+    "def1": "",
+    "word2": "toll",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "told告诉，toll通行费",
+    "similarity": 1
+  },
+  {
+    "word1": "tore",
+    "def1": "",
+    "word2": "torn",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tore撕开过去式，torn撕开过去分词",
+    "similarity": 1
+  },
+  {
+    "word1": "towel",
+    "def1": "",
+    "word2": "tower",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "towel毛巾，tower塔",
+    "similarity": 1
+  },
+  {
+    "word1": "track",
+    "def1": "",
+    "word2": "traction",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "track轨道，traction牵引",
+    "similarity": 4
+  },
+  {
+    "word1": "trade",
+    "def1": "",
+    "word2": "traitor",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "trade贸易，traitor叛徒",
+    "similarity": 4
+  },
+  {
+    "word1": "vale",
+    "def1": "",
+    "word2": "veal",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "vale山谷，veal小牛肉",
+    "similarity": 2
+  },
+  {
+    "word1": "vane",
+    "def1": "",
+    "word2": "vain",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "vane风向标，vain徒劳的",
+    "similarity": 2
+  },
+  {
+    "word1": "wade",
+    "def1": "",
+    "word2": "weighed",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wade涉水，weighed称重",
+    "similarity": 5
+  },
+  {
+    "word1": "ward",
+    "def1": "",
+    "word2": "warred",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "ward病房，warred战争",
+    "similarity": 2
+  },
+  {
+    "word1": "ware",
+    "def1": "",
+    "word2": "wear",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "ware制品，wear穿",
+    "similarity": 2
+  },
+  {
+    "word1": "weave",
+    "def1": "",
+    "word2": "we've",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "weave编织，we've我们有",
+    "similarity": 1
+  },
+  {
+    "word1": "weed",
+    "def1": "",
+    "word2": "wed",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "weed杂草，wed结婚",
+    "similarity": 1
+  },
+  {
+    "word1": "wet",
+    "def1": "",
+    "word2": "whet",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wet湿的，whet磨快",
+    "similarity": 1
+  },
+  {
+    "word1": "whirl",
+    "def1": "",
+    "word2": "whirl",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whirl旋转，whirl卷筒",
+    "similarity": 0
+  },
+  {
+    "word1": "whisk",
+    "def1": "",
+    "word2": "whisks",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whisk搅蛋器，whisks扫帚复数",
+    "similarity": 1
+  },
+  {
+    "word1": "whose",
+    "def1": "",
+    "word2": "who's",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whose谁的，who's谁是",
+    "similarity": 2
+  },
+  {
+    "word1": "widen",
+    "def1": "",
+    "word2": "witted",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "widen加宽，witted有才智的",
+    "similarity": 3
+  },
+  {
+    "word1": "wile",
+    "def1": "",
+    "word2": "while",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wile诡计，while当...时",
+    "similarity": 1
+  },
+  {
+    "word1": "will",
+    "def1": "",
+    "word2": "wilt",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "will将要，wilt枯萎",
+    "similarity": 1
+  },
+  {
+    "word1": "wince",
+    "def1": "",
+    "word2": "wins",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wince退缩，wins赢",
+    "similarity": 2
+  },
+  {
+    "word1": "wipe",
+    "def1": "",
+    "word2": "whipe",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wipe擦，whipe（错误拼写）",
+    "similarity": 1
+  },
+  {
+    "word1": "wire",
+    "def1": "",
+    "word2": "whire",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wire电线，whire（错误拼写）",
+    "similarity": 1
+  },
+  {
+    "word1": "wise",
+    "def1": "",
+    "word2": "whies",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wise明智的，whies喘息声",
+    "similarity": 3
+  },
+  {
+    "word1": "woe",
+    "def1": "",
+    "word2": "whoa",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "woe悲哀，whoa停住",
+    "similarity": 2
+  },
+  {
+    "word1": "wood",
+    "def1": "",
+    "word2": "woe",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wood木头，woe悲哀",
+    "similarity": 2
+  },
+  {
+    "word1": "wore",
+    "def1": "",
+    "word2": "war",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wore穿戴过去式，war战争",
+    "similarity": 2
+  },
+  {
+    "word1": "work",
+    "def1": "",
+    "word2": "wark",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "work工作，wark（古语）愈合",
+    "similarity": 1
+  },
+  {
+    "word1": "yore",
+    "def1": "",
+    "word2": "your",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "yore往昔，your你的",
+    "similarity": 2
+  },
+  {
+    "word1": "young",
+    "def1": "",
+    "word2": "younger",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "young年轻的，younger更年轻的",
+    "similarity": 2
+  },
+  {
+    "word1": "your",
+    "def1": "",
+    "word2": "you're",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "your你的，you're你是",
+    "similarity": 2
+  },
+  {
+    "word1": "abate",
+    "def1": "",
+    "word2": "abbey",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "减少/修道院",
+    "similarity": 3
+  },
+  {
+    "word1": "acre",
+    "def1": "",
+    "word2": "acre",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "英亩",
+    "similarity": 0
+  },
+  {
+    "word1": "act",
+    "def1": "",
+    "word2": "enact",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "行动/制定",
+    "similarity": 2
+  },
+  {
+    "word1": "adobe",
+    "def1": "",
+    "word2": "adobe",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "土砖",
+    "similarity": 0
+  },
+  {
+    "word1": "adore",
+    "def1": "",
+    "word2": "adore",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "崇拜",
+    "similarity": 0
+  },
+  {
+    "word1": "adorn",
+    "def1": "",
+    "word2": "adorn",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "装饰",
+    "similarity": 0
+  },
+  {
+    "word1": "adult",
+    "def1": "",
+    "word2": "advult",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "成人",
+    "similarity": 1
+  },
+  {
+    "word1": "agile",
+    "def1": "",
+    "word2": "fatile",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "敏捷的/徒劳的",
+    "similarity": 2
+  },
+  {
+    "word1": "aging",
+    "def1": "",
+    "word2": "aging",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "老化",
+    "similarity": 0
+  },
+  {
+    "word1": "aide",
+    "def1": "",
+    "word2": "aids",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "助手/艾滋病",
+    "similarity": 1
+  },
+  {
+    "word1": "aim",
+    "def1": "",
+    "word2": "aim",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "目标",
+    "similarity": 0
+  },
+  {
+    "word1": "air",
+    "def1": "",
+    "word2": "heir",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "空气/继承人",
+    "similarity": 2
+  },
+  {
+    "word1": "aisle",
+    "def1": "",
+    "word2": "island",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "通道/岛屿",
+    "similarity": 4
+  },
+  {
+    "word1": "alarm",
+    "def1": "",
+    "word2": "alarm",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "警报",
+    "similarity": 0
+  },
+  {
+    "word1": "album",
+    "def1": "",
+    "word2": "alburn",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "专辑/树木",
+    "similarity": 2
+  },
+  {
+    "word1": "alert",
+    "def1": "",
+    "word2": "alter",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "警报/改变",
+    "similarity": 2
+  },
+  {
+    "word1": "align",
+    "def1": "",
+    "word2": "align",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "对齐",
+    "similarity": 0
+  },
+  {
+    "word1": "alike",
+    "def1": "",
+    "word2": "alive",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "相似的/活着的",
+    "similarity": 1
+  },
+  {
+    "word1": "alone",
+    "def1": "",
+    "word2": "lonely",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "独自/孤独的",
+    "similarity": 3
+  },
+  {
+    "word1": "also",
+    "def1": "",
+    "word2": "as well",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "也",
+    "similarity": 6
+  },
+  {
+    "word1": "amaze",
+    "def1": "",
+    "word2": "amuse",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "惊讶/娱乐",
+    "similarity": 2
+  },
+  {
+    "word1": "amber",
+    "def1": "",
+    "word2": "umber",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "琥珀/深棕色",
+    "similarity": 1
+  },
+  {
+    "word1": "amble",
+    "def1": "",
+    "word2": "amble",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "漫步",
+    "similarity": 0
+  },
+  {
+    "word1": "amend",
+    "def1": "",
+    "word2": "emend",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "修正/校订",
+    "similarity": 1
+  },
+  {
+    "word1": "amid",
+    "def1": "",
+    "word2": "mid",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "在...中间",
+    "similarity": 1
+  },
+  {
+    "word1": "among",
+    "def1": "",
+    "word2": "between",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "在...之间",
+    "similarity": 7
+  },
+  {
+    "word1": "ample",
+    "def1": "",
+    "word2": "ample",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "充足的",
+    "similarity": 0
+  },
+  {
+    "word1": "amuse",
+    "def1": "",
+    "word2": "amuse",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "娱乐",
+    "similarity": 0
+  },
+  {
+    "word1": "anger",
+    "def1": "",
+    "word2": "hunger",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "愤怒/饥饿",
+    "similarity": 2
+  },
+  {
+    "word1": "angle",
+    "def1": "",
+    "word2": "ankle",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "角度/脚踝",
+    "similarity": 1
+  },
+  {
+    "word1": "angry",
+    "def1": "",
+    "word2": "hungry",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "愤怒的/饥饿的",
+    "similarity": 2
+  },
+  {
+    "word1": "ante",
+    "def1": "",
+    "word2": "anti",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "在...之前/反对",
+    "similarity": 1
+  },
+  {
+    "word1": "apart",
+    "def1": "",
+    "word2": "a part",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "分开/一部分",
+    "similarity": 1
+  },
+  {
+    "word1": "apron",
+    "def1": "",
+    "word2": "pan",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "围裙/平底锅",
+    "similarity": 3
+  },
+  {
+    "word1": "apt",
+    "def1": "",
+    "word2": "apt",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "适当的",
+    "similarity": 0
+  },
+  {
+    "word1": "arc",
+    "def1": "",
+    "word2": "ark",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "弧/方舟",
+    "similarity": 1
+  },
+  {
+    "word1": "arch",
+    "def1": "",
+    "word2": "arch",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "拱形",
+    "similarity": 0
+  },
+  {
+    "word1": "area",
+    "def1": "",
+    "word2": "arena",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "区域/竞技场",
+    "similarity": 1
+  },
+  {
+    "word1": "argue",
+    "def1": "",
+    "word2": "argue",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "争论",
+    "similarity": 0
+  },
+  {
+    "word1": "arise",
+    "def1": "",
+    "word2": "arise",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "出现",
+    "similarity": 0
+  },
+  {
+    "word1": "arm",
+    "def1": "",
+    "word2": "alarm",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "手臂/警报",
+    "similarity": 2
+  },
+  {
+    "word1": "armor",
+    "def1": "",
+    "word2": "armour",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "盔甲",
+    "similarity": 1
+  },
+  {
+    "word1": "aroma",
+    "def1": "",
+    "word2": "aroma",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "香气",
+    "similarity": 0
+  },
+  {
+    "word1": "arrow",
+    "def1": "",
+    "word2": "sarrow",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "箭",
+    "similarity": 1
+  },
+  {
+    "word1": "arson",
+    "def1": "",
+    "word2": "reason",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "纵火/理由",
+    "similarity": 3
+  },
+  {
+    "word1": "art",
+    "def1": "",
+    "word2": "art",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "艺术",
+    "similarity": 0
+  },
+  {
+    "word1": "ash",
+    "def1": "",
+    "word2": "cash",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "灰烬/现金",
+    "similarity": 1
+  },
+  {
+    "word1": "aside",
+    "def1": "",
+    "word2": "beside",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "旁边/旁边",
+    "similarity": 2
+  },
+  {
+    "word1": "ask",
+    "def1": "",
+    "word2": "ask",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "问",
+    "similarity": 0
+  },
+  {
+    "word1": "asset",
+    "def1": "",
+    "word2": "assets",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "资产",
+    "similarity": 1
+  },
+  {
+    "word1": "at",
+    "def1": "",
+    "word2": "at",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "在",
+    "similarity": 0
+  },
+  {
+    "word1": "atlas",
+    "def1": "",
+    "word2": "atlas",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "地图集",
+    "similarity": 0
+  },
+  {
+    "word1": "atom",
+    "def1": "",
+    "word2": "atom",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "原子",
+    "similarity": 0
+  },
+  {
+    "word1": "atop",
+    "def1": "",
+    "word2": "top",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "在...之上",
+    "similarity": 1
+  },
+  {
+    "word1": "attic",
+    "def1": "",
+    "word2": "attic",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "阁楼",
+    "similarity": 0
+  },
+  {
+    "word1": "audit",
+    "def1": "",
+    "word2": "audit",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "审计",
+    "similarity": 0
+  },
+  {
+    "word1": "aunt",
+    "def1": "",
+    "word2": "aunt",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "阿姨",
+    "similarity": 0
+  },
+  {
+    "word1": "avoid",
+    "def1": "",
+    "word2": "avoid",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "避免",
+    "similarity": 0
+  },
+  {
+    "word1": "await",
+    "def1": "",
+    "word2": "wait",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "等待",
+    "similarity": 1
+  },
+  {
+    "word1": "aware",
+    "def1": "",
+    "word2": "aware",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "意识到的",
+    "similarity": 0
+  },
+  {
+    "word1": "awful",
+    "def1": "",
+    "word2": "awful",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "可怕的",
+    "similarity": 0
+  },
+  {
+    "word1": "awl",
+    "def1": "",
+    "word2": "all",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "锥子/全部",
+    "similarity": 1
+  },
+  {
+    "word1": "axe",
+    "def1": "",
+    "word2": "axis",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "斧头/轴",
+    "similarity": 2
+  },
+  {
+    "word1": "axiom",
+    "def1": "",
+    "word2": "axis",
+    "def2": "",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "公理/轴",
+    "similarity": 2
+  }
+]
