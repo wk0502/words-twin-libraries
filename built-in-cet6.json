@@ -3,7 +3,7 @@
     "word1": "welcome",
     "def1": "n./v./adj. 欢迎",
     "word2": "welcom",
-    "def2": "v. （错误拼写）",
+    "def2": "n./v./adj. 欢迎",
     "tags": [
       "CET6"
     ],
@@ -69,7 +69,7 @@
     "word1": "sponge",
     "def1": "n. 海绵",
     "word2": "voise",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 海绵",
     "tags": [
       "CET6"
     ],
@@ -113,7 +113,7 @@
     "word1": "usage",
     "def1": "n. 用法，使用",
     "word2": "useage",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 用法，使用",
     "tags": [
       "CET6"
     ],
@@ -509,7 +509,7 @@
     "word1": "timber",
     "def1": "n. 木材，木料",
     "word2": "winer",
-    "def2": "n. 获酒商（错误拼写）",
+    "def2": "n. 木材，木料",
     "tags": [
       "CET6"
     ],
@@ -586,7 +586,7 @@
     "word1": "vanity",
     "def1": "n. 自负，虚荣心",
     "word2": "voise",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 自负，虚荣心",
     "tags": [
       "CET6"
     ],
@@ -938,7 +938,7 @@
     "word1": "voltage",
     "def1": "n. 电压",
     "word2": "voltege",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 电压",
     "tags": [
       "CET6"
     ],
@@ -1070,7 +1070,7 @@
     "word1": "witness",
     "def1": "n./v. 证人，目击",
     "word2": "withess",
-    "def2": "n. （错误拼写）",
+    "def2": "n./v. 证人，目击",
     "tags": [
       "CET6"
     ],
@@ -1081,7 +1081,7 @@
     "word1": "truly",
     "def1": "adv. 真正地，真实地",
     "word2": "truely",
-    "def2": "adv. （错误拼写）",
+    "def2": "adv. 真正地，真实地",
     "tags": [
       "CET6"
     ],
@@ -1180,7 +1180,7 @@
     "word1": "wedding",
     "def1": "n. 婚礼，婚宴",
     "word2": "weddig",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 婚礼，婚宴",
     "tags": [
       "CET6"
     ],
@@ -1224,7 +1224,7 @@
     "word1": "spectrum",
     "def1": "n. 光谱，范围",
     "word2": "specktrum",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 光谱，范围",
     "tags": [
       "CET6"
     ],
@@ -1312,7 +1312,7 @@
     "word1": "vessel",
     "def1": "n. 船只，容器",
     "word2": "vessell",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 船只，容器",
     "tags": [
       "CET6"
     ],
@@ -1444,7 +1444,7 @@
     "word1": "water",
     "def1": "n. 水 / v. 浇水",
     "word2": "watter",
-    "def2": "adj. （错误拼写）",
+    "def2": "n. 水 / v. 浇水",
     "tags": [
       "CET6"
     ],
@@ -1598,7 +1598,7 @@
     "word1": "world",
     "def1": "n. 世界，地球",
     "word2": "worrld",
-    "def2": "n. （错误拼写）",
+    "def2": "n. 世界，地球",
     "tags": [
       "CET6"
     ],
@@ -1620,7 +1620,7 @@
     "word1": "written",
     "def1": "v. 写（过去分词）",
     "word2": "riten",
-    "def2": "v. （错误拼写）",
+    "def2": "v. 写（过去分词）",
     "tags": [
       "CET6"
     ],
@@ -1653,7 +1653,7 @@
     "word1": "visual",
     "def1": "adj. 视觉的，形象的",
     "word2": "visiual",
-    "def2": "adj. （错误拼写）",
+    "def2": "adj. 视觉的，形象的",
     "tags": [
       "CET6"
     ],
@@ -2115,7 +2115,7 @@
     "word1": "vulgar",
     "def1": "adj. 粗俗的，通俗的",
     "word2": "vulger",
-    "def2": "adj. （错误拼写）",
+    "def2": "adj. 粗俗的，通俗的",
     "tags": [
       "CET6"
     ],
@@ -7186,7 +7186,7 @@
     "word1": "already",
     "def1": "a. d；a. d",
     "word2": "all ready",
-    "def2": "错误拼写",
+    "def2": "a. d；a. d",
     "tags": [
       "CET6"
     ],
@@ -7382,9 +7382,9 @@
   },
   {
     "word1": "anyone",
-    "def1": "错误拼写",
+    "def1": "pron. 任何人",
     "word2": "any one",
-    "def2": "错误拼写",
+    "def2": "pron. 任意一个",
     "tags": [
       "CET6"
     ],
@@ -7868,7 +7868,7 @@
     "word1": "awhile",
     "def1": "adverb. For some time; for a short time.；adverb. (Pennsylvania Dutch English, US) In the meantime; during an implicit ongoing process.",
     "word2": "a while",
-    "def2": "错误拼写",
+    "def2": "adverb. For some time; for a short time.；adverb. (Pennsylvania Dutch English, US) In the meantime; during an implicit ongoing process.",
     "tags": [
       "CET6"
     ],
