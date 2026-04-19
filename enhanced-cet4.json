@@ -1,0 +1,1014 @@
+[
+  {
+    "word1": "bare",
+    "def1": "adj. 赤裸的；光秃的；空的",
+    "word2": "bear",
+    "def2": "n. 熊；v. 承受；携带",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "bare赤裸的，bear熊/忍受",
+    "similarity": 2
+  },
+  {
+    "word1": "beach",
+    "def1": "n. 海滩；湖滩",
+    "word2": "beech",
+    "def2": "n. 山毛榉",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "beach海滩，beech山毛榉",
+    "similarity": 1
+  },
+  {
+    "word1": "board",
+    "def1": "n. 木板；董事会",
+    "word2": "broad",
+    "def2": "adj. 宽广的；广阔的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "board木板，broad宽广的",
+    "similarity": 2
+  },
+  {
+    "word1": "bold",
+    "def1": "adj. 大胆的；粗体的",
+    "word2": "bolt",
+    "def2": "n. 螺栓；闪电",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "bold大胆的，bolt螺栓",
+    "similarity": 1
+  },
+  {
+    "word1": "cell",
+    "def1": "n. 细胞；牢房",
+    "word2": "sell",
+    "def2": "v. 卖；销售",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cell细胞，sell卖",
+    "similarity": 1
+  },
+  {
+    "word1": "cent",
+    "def1": "n. 分（货币单位）",
+    "word2": "sent",
+    "def2": "v. 发送（send的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cent分币，sent发送",
+    "similarity": 1
+  },
+  {
+    "word1": "cloth",
+    "def1": "n. 布料；织物",
+    "word2": "clothe",
+    "def2": "v. 给...穿衣服",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cloth布料，clothe穿衣",
+    "similarity": 1
+  },
+  {
+    "word1": "corps",
+    "def1": "n. 军团；兵团",
+    "word2": "corpse",
+    "def2": "n. 尸体",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "corps军团，corpse尸体",
+    "similarity": 1
+  },
+  {
+    "word1": "creak",
+    "def1": "v. 发出嘎吱声",
+    "word2": "creek",
+    "def2": "n. 小溪；小河",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "creak吱嘎声，creek小溪",
+    "similarity": 1
+  },
+  {
+    "word1": "cue",
+    "def1": "n. 提示；线索；球杆",
+    "word2": "queue",
+    "def2": "n./v. 排队；队列",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "cue提示，queue队列",
+    "similarity": 3
+  },
+  {
+    "word1": "dear",
+    "def1": "adj. 亲爱的；昂贵的",
+    "word2": "deer",
+    "def2": "n. 鹿",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "dear亲爱的，deer鹿",
+    "similarity": 1
+  },
+  {
+    "word1": "draft",
+    "def1": "n./v. 草稿；起草",
+    "word2": "draught",
+    "def2": "n. 通风；气流；草图",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "draft草案，draught通风",
+    "similarity": 3
+  },
+  {
+    "word1": "every",
+    "def1": "adj. 每个；每一",
+    "word2": "each",
+    "def2": "adj./pron. 每个；各自",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "every每个，each每一",
+    "similarity": 4
+  },
+  {
+    "word1": "for",
+    "def1": "prep. 为了；对于",
+    "word2": "four",
+    "def2": "num. 四",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "for为了，four四",
+    "similarity": 1
+  },
+  {
+    "word1": "fore",
+    "def1": "adj. 前部的；在前面",
+    "word2": "four",
+    "def2": "num. 四",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "fore前面的，four四",
+    "similarity": 2
+  },
+  {
+    "word1": "heard",
+    "def1": "v. 听见（hear的过去式）",
+    "word2": "here",
+    "def2": "adv. 这里；在这儿",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "heard听见，here这里",
+    "similarity": 2
+  },
+  {
+    "word1": "him",
+    "def1": "pron. 他（宾格）",
+    "word2": "hymn",
+    "def2": "n. 赞美诗；圣歌",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "him他，hymn赞美诗",
+    "similarity": 2
+  },
+  {
+    "word1": "its",
+    "def1": "pron. 它的",
+    "word2": "it's",
+    "def2": "it is 的缩写形式",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "its它的，it's它是",
+    "similarity": 1
+  },
+  {
+    "word1": "loan",
+    "def1": "n./v. 贷款；借出",
+    "word2": "lone",
+    "def2": "adj. 孤独的；单独的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "loan贷款，lone孤独的",
+    "similarity": 2
+  },
+  {
+    "word1": "main",
+    "def1": "adj. 主要的；最重要的",
+    "word2": "mane",
+    "def2": "n. 鬃毛",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "main主要的，mane鬃毛",
+    "similarity": 2
+  },
+  {
+    "word1": "meat",
+    "def1": "n. 肉；肉类",
+    "word2": "meet",
+    "def2": "v. 遇见；迎接",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "meat肉，meet遇见",
+    "similarity": 1
+  },
+  {
+    "word1": "mist",
+    "def1": "n. 薄雾；迷雾",
+    "word2": "missed",
+    "def2": "v. 错过；想念（miss的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "mist薄雾，missed错过",
+    "similarity": 3
+  },
+  {
+    "word1": "moist",
+    "def1": "adj. 潮湿的；湿润的",
+    "word2": "moisture",
+    "def2": "n. 湿度；潮气",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "moist潮湿的，moisture湿气",
+    "similarity": 3
+  },
+  {
+    "word1": "naval",
+    "def1": "adj. 海军的",
+    "word2": "navel",
+    "def2": "n. 肚脐；中心",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "naval海军的，navel肚脐",
+    "similarity": 1
+  },
+  {
+    "word1": "need",
+    "def1": "v./n. 需要；必须",
+    "word2": "knead",
+    "def2": "v. 揉面；捏制",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "need需要，knead揉面",
+    "similarity": 2
+  },
+  {
+    "word1": "none",
+    "def1": "pron. 一个也没有",
+    "word2": "nun",
+    "def2": "n. 修女；尼姑",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "none没有人，nun修女",
+    "similarity": 2
+  },
+  {
+    "word1": "oar",
+    "def1": "n. 桨；橹",
+    "word2": "or",
+    "def2": "conj. 或者；还是",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "oar船桨，or或者",
+    "similarity": 1
+  },
+  {
+    "word1": "overt",
+    "def1": "adj. 公开的；明显的",
+    "word2": "overtake",
+    "def2": "v. 赶上；超过",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "overt公开的，overtake赶上",
+    "similarity": 3
+  },
+  {
+    "word1": "pace",
+    "def1": "n. 步速；速度",
+    "word2": "paste",
+    "def2": "n. 糊状物；面团",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "pace步伐，paste粘贴",
+    "similarity": 2
+  },
+  {
+    "word1": "peek",
+    "def1": "v. 偷看；窥视",
+    "word2": "peak",
+    "def2": "n. 山峰；顶点",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "peek偷看，peak山峰",
+    "similarity": 1
+  },
+  {
+    "word1": "peer",
+    "def1": "n. 同龄人；贵族",
+    "word2": "pier",
+    "def2": "n. 码头；桥墩",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "peer同龄人，pier码头",
+    "similarity": 1
+  },
+  {
+    "word1": "perm",
+    "def1": "n./v. 烫发；卷曲",
+    "word2": "palm",
+    "def2": "n. 手掌；棕榈树",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "perm烫发，palm手掌",
+    "similarity": 2
+  },
+  {
+    "word1": "place",
+    "def1": "n./v. 地方；放置",
+    "word2": "plaice",
+    "def2": "n. 鳎鱼（一种比目鱼）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "place地点，plaice比目鱼",
+    "similarity": 1
+  },
+  {
+    "word1": "pray",
+    "def1": "v. 祈祷；祈求",
+    "word2": "prey",
+    "def2": "n. 猎物；受害者",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "pray祈祷，prey猎物",
+    "similarity": 1
+  },
+  {
+    "word1": "read",
+    "def1": "v. 阅读；朗读",
+    "word2": "red",
+    "def2": "adj. 红色的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "read阅读，red红色",
+    "similarity": 1
+  },
+  {
+    "word1": "real",
+    "def1": "adj. 真的；真实的",
+    "word2": "reel",
+    "def2": "n. 卷轴；v. 旋转；踉跄",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "real真的，reel卷轴",
+    "similarity": 1
+  },
+  {
+    "word1": "reek",
+    "def1": "v. 发臭；散发气味",
+    "word2": "weak",
+    "def2": "adj. 虚弱的；软弱的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "reek散发臭气，weak虚弱",
+    "similarity": 2
+  },
+  {
+    "word1": "rest",
+    "def1": "n./v. 休息；其余",
+    "word2": "wrest",
+    "def2": "v. 扭夺；强取",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rest休息，wrest夺取",
+    "similarity": 1
+  },
+  {
+    "word1": "right",
+    "def1": "adj./n./adv. 正确的；右边",
+    "word2": "write",
+    "def2": "v. 写；书写",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "right正确，write写",
+    "similarity": 4
+  },
+  {
+    "word1": "rite",
+    "def1": "n. 仪式；典礼",
+    "word2": "right",
+    "def2": "adj./n. 正确的；右边",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rite仪式，right正确",
+    "similarity": 3
+  },
+  {
+    "word1": "room",
+    "def1": "n. 房间；空间",
+    "word2": "roam",
+    "def2": "v. 漫游；闲逛",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "room房间，roam漫游",
+    "similarity": 1
+  },
+  {
+    "word1": "root",
+    "def1": "n. 根；根源",
+    "word2": "route",
+    "def2": "n. 路线；途径",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "root根，route路线",
+    "similarity": 2
+  },
+  {
+    "word1": "row",
+    "def1": "n. 行；排；v. 划船",
+    "word2": "roe",
+    "def2": "n. 鱼卵； roe deer 狍子",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "row排，roe鱼卵",
+    "similarity": 1
+  },
+  {
+    "word1": "rye",
+    "def1": "n. 黑麦；裸麦",
+    "word2": "wry",
+    "def2": "adj. 扭曲的；讽刺的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "rye黑麦，wry讽刺的",
+    "similarity": 2
+  },
+  {
+    "word1": "sail",
+    "def1": "n./v. 航行；帆",
+    "word2": "sale",
+    "def2": "n. 销售；出售",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sail航行，sale出售",
+    "similarity": 2
+  },
+  {
+    "word1": "sea",
+    "def1": "n. 海；海洋",
+    "word2": "see",
+    "def2": "v. 看见；理解",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sea海洋，see看见",
+    "similarity": 1
+  },
+  {
+    "word1": "set",
+    "def1": "v. 设置；n. 一套",
+    "word2": "sweat",
+    "def2": "n./v. 汗；出汗",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "set设置，sweat汗水",
+    "similarity": 2
+  },
+  {
+    "word1": "side",
+    "def1": "n. 边；侧面",
+    "word2": "sighed",
+    "def2": "v. 叹息；叹气（sigh的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "side边，sighed叹息",
+    "similarity": 3
+  },
+  {
+    "word1": "sigh",
+    "def1": "n./v. 叹息；叹气",
+    "word2": "si",
+    "def2": "n. 升（音乐术语）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sigh叹息，si音符",
+    "similarity": 2
+  },
+  {
+    "word1": "so",
+    "def1": "adv. 如此；那么",
+    "word2": "sew",
+    "def2": "v. 缝纫；缝合",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "so如此，sew缝合",
+    "similarity": 2
+  },
+  {
+    "word1": "sold",
+    "def1": "v. 卖；销售（sell的过去式）",
+    "word2": "sole",
+    "def2": "adj. 唯一的；单独的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sold卖，sole唯一的",
+    "similarity": 1
+  },
+  {
+    "word1": "spade",
+    "def1": "n. 铲子；铁锹",
+    "word2": "spoke",
+    "def2": "n. 轮辐；辐条",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "spade铲子，spoke轮辐",
+    "similarity": 2
+  },
+  {
+    "word1": "stew",
+    "def1": "n./v. 炖；煨",
+    "word2": "steward",
+    "def2": "n. 管家；乘务员",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "stew炖菜，steward管家",
+    "similarity": 3
+  },
+  {
+    "word1": "stool",
+    "def1": "n. 凳子；粪便",
+    "word2": "steal",
+    "def2": "v. 偷窃",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "stool凳子，steal偷",
+    "similarity": 2
+  },
+  {
+    "word1": "suite",
+    "def1": "n. 套房；一套家具",
+    "word2": "sweet",
+    "def2": "adj. 甜的；可爱的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "suite套房，sweet甜的",
+    "similarity": 4
+  },
+  {
+    "word1": "sword",
+    "def1": "n. 剑；刀",
+    "word2": "soared",
+    "def2": "v. 高飞；翱翔（soar的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "sword剑，soared翱翔",
+    "similarity": 3
+  },
+  {
+    "word1": "tain",
+    "def1": "n. 薄铁片；锡纸",
+    "word2": "train",
+    "def2": "n./v. 火车；培训",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tain一点点，train火车",
+    "similarity": 1
+  },
+  {
+    "word1": "tail",
+    "def1": "n. 尾巴；尾部",
+    "word2": "tale",
+    "def2": "n. 故事；传说",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tail尾巴，tale故事",
+    "similarity": 2
+  },
+  {
+    "word1": "tear",
+    "def1": "n. 眼泪；v. 撕破",
+    "word2": "tier",
+    "def2": "n. 等级；层",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tear眼泪，tier层级",
+    "similarity": 2
+  },
+  {
+    "word1": "threw",
+    "def1": "v. 投掷；扔（throw的过去式）",
+    "word2": "through",
+    "def2": "prep./adv. 通过；穿过",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "threw扔，through通过",
+    "similarity": 4
+  },
+  {
+    "word1": "tile",
+    "def1": "n. 瓷砖；瓦片",
+    "word2": "trial",
+    "def2": "n. 审判；试验",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tile瓦片，trial试验",
+    "similarity": 3
+  },
+  {
+    "word1": "toad",
+    "def1": "n. 蟾蜍；癞蛤蟆",
+    "word2": "towed",
+    "def2": "v. 拖；拽（tow的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "toad蟾蜍，towed拖曳",
+    "similarity": 2
+  },
+  {
+    "word1": "told",
+    "def1": "v. 告诉（tell的过去式）",
+    "word2": "toll",
+    "def2": "n. 通行费；代价",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "told告诉，toll通行费",
+    "similarity": 1
+  },
+  {
+    "word1": "tore",
+    "def1": "v. 撕扯（tear的过去式）",
+    "word2": "torn",
+    "def2": "v. 撕破（tear的过去分词）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "tore撕开过去式，torn撕开过去分词",
+    "similarity": 1
+  },
+  {
+    "word1": "towel",
+    "def1": "n. 毛巾；手巾",
+    "word2": "tower",
+    "def2": "n. 塔；塔楼",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "towel毛巾，tower塔",
+    "similarity": 1
+  },
+  {
+    "word1": "track",
+    "def1": "n./v. 轨道；跟踪",
+    "word2": "traction",
+    "def2": "n. 牵引；牵引力",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "track轨道，traction牵引",
+    "similarity": 4
+  },
+  {
+    "word1": "trade",
+    "def1": "n./v. 贸易；交易",
+    "word2": "traitor",
+    "def2": "n. 叛徒；卖国贼",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "trade贸易，traitor叛徒",
+    "similarity": 4
+  },
+  {
+    "word1": "vale",
+    "def1": "n. 谷；山谷（poetic）",
+    "word2": "veal",
+    "def2": "n. 小牛肉",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "vale山谷，veal小牛肉",
+    "similarity": 2
+  },
+  {
+    "word1": "vane",
+    "def1": "n. 风向标；叶片",
+    "word2": "vain",
+    "def2": "adj. 徒劳的；自负的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "vane风向标，vain徒劳的",
+    "similarity": 2
+  },
+  {
+    "word1": "wade",
+    "def1": "v. 涉水；艰难前进",
+    "word2": "weighed",
+    "def2": "v. 称重量；权衡（weigh的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wade涉水，weighed称重",
+    "similarity": 5
+  },
+  {
+    "word1": "ward",
+    "def1": "n. 病房；监护",
+    "word2": "warred",
+    "def2": "v. 战争；作战（war的过去式）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "ward病房，warred战争",
+    "similarity": 2
+  },
+  {
+    "word1": "ware",
+    "def1": "n. 制品；器皿",
+    "word2": "wear",
+    "def2": "v. 穿；戴；磨损",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "ware制品，wear穿",
+    "similarity": 2
+  },
+  {
+    "word1": "weave",
+    "def1": "v. 编织；编排",
+    "word2": "we've",
+    "def2": "we have 的缩写形式",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "weave编织，we've我们有",
+    "similarity": 1
+  },
+  {
+    "word1": "weed",
+    "def1": "n. 杂草；野草",
+    "word2": "wed",
+    "def2": "v. 嫁；娶；结婚",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "weed杂草，wed结婚",
+    "similarity": 1
+  },
+  {
+    "word1": "wet",
+    "def1": "adj. 湿的；潮湿的",
+    "word2": "whet",
+    "def2": "v. 磨快；刺激",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wet湿的，whet磨快",
+    "similarity": 1
+  },
+  {
+    "word1": "whirl",
+    "def1": "v./n. 旋转；急转",
+    "word2": "whirl",
+    "def2": "n. 世界；地球",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whirl旋转，whirl卷筒",
+    "similarity": 0
+  },
+  {
+    "word1": "whisk",
+    "def1": "v. 挥动；n. 搅拌器",
+    "word2": "whisks",
+    "def2": "n. 搅拌器（whisk的复数）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whisk搅蛋器，whisks扫帚复数",
+    "similarity": 1
+  },
+  {
+    "word1": "whose",
+    "def1": "pron. 谁的",
+    "word2": "who's",
+    "def2": "who is 或 who has 的缩写形式",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "whose谁的，who's谁是",
+    "similarity": 2
+  },
+  {
+    "word1": "widen",
+    "def1": "v. 加宽；扩展",
+    "word2": "witted",
+    "def2": "adj. 有...才智的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "widen加宽，witted有才智的",
+    "similarity": 3
+  },
+  {
+    "word1": "wile",
+    "def1": "n. 诡计；花招",
+    "word2": "while",
+    "def2": "n. 一会儿；conj. 当...的时候",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wile诡计，while当...时",
+    "similarity": 1
+  },
+  {
+    "word1": "will",
+    "def1": "n./v. 意志；将要",
+    "word2": "wilt",
+    "def2": "v. （植物）枯萎；萎蔫",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "will将要，wilt枯萎",
+    "similarity": 1
+  },
+  {
+    "word1": "wince",
+    "def1": "v./n. 畏缩；退缩",
+    "word2": "wins",
+    "def2": "v. 获胜；赢（win的第三人称单数）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wince退缩，wins赢",
+    "similarity": 2
+  },
+  {
+    "word1": "wipe",
+    "def1": "v./n. 擦；抹；拭",
+    "word2": "whipe",
+    "def2": "v. 鞭打（whip的变体）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wipe擦，whipe（错误拼写）",
+    "similarity": 1
+  },
+  {
+    "word1": "wire",
+    "def1": "n. 金属丝；电线",
+    "word2": "whire",
+    "def2": "v. 发嗡嗡声；发颤音",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wire电线，whire（错误拼写）",
+    "similarity": 1
+  },
+  {
+    "word1": "wise",
+    "def1": "adj. 聪明的；有智慧的",
+    "word2": "whies",
+    "def2": "v. 呜咽；低吠",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wise明智的，whies喘息声",
+    "similarity": 3
+  },
+  {
+    "word1": "woe",
+    "def1": "n. 悲哀；痛苦；灾难",
+    "word2": "whoa",
+    "def2": "int. 哇；噢（表示惊讶或让马停下）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "woe悲哀，whoa停住",
+    "similarity": 2
+  },
+  {
+    "word1": "wood",
+    "def1": "n. 木头；木材",
+    "word2": "woe",
+    "def2": "n. 悲哀；痛苦；灾难",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wood木头，woe悲哀",
+    "similarity": 2
+  },
+  {
+    "word1": "wore",
+    "def1": "v. 穿；戴（wear的过去式）",
+    "word2": "war",
+    "def2": "n./v. 战争；打仗",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "wore穿戴过去式，war战争",
+    "similarity": 2
+  },
+  {
+    "word1": "work",
+    "def1": "n./v. 工作；劳动",
+    "word2": "wark",
+    "def2": "n. 疼痛；痛苦（古语/方言）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "work工作，wark（古语）愈合",
+    "similarity": 1
+  },
+  {
+    "word1": "yore",
+    "def1": "n. 往昔；很久以前",
+    "word2": "your",
+    "def2": "pron. 你的；您的",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "yore往昔，your你的",
+    "similarity": 2
+  },
+  {
+    "word1": "young",
+    "def1": "adj. 年轻的；初期的",
+    "word2": "younger",
+    "def2": "adj. 更年轻的（young的比较级）",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "young年轻的，younger更年轻的",
+    "similarity": 2
+  },
+  {
+    "word1": "your",
+    "def1": "pron. 你的；您的",
+    "word2": "you're",
+    "def2": "you are 的缩写形式",
+    "tags": [
+      "CET4"
+    ],
+    "memory_tip": "your你的，you're你是",
+    "similarity": 2
+  }
+]
